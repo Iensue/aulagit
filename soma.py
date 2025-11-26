@@ -1,3 +1,3 @@
-int = a
-int = b
-x = a / b
+int = c
+int = d
+x = c / d
